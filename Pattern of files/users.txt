@@ -1,0 +1,1 @@
+7|International|1|Diego Kowalski|Diego.Kowalski@ticket.pl|Poznan Rataje6|ISO|2|Mariusz Lis|Mariusz.Lis@ticket.pl|Poznan Winogrady5|Infra|3|Karol Pietrzak|Karol.Pietrzak@ticket.pl|Poznan Lacina2|Retail|4|Blazej Wroblewski|Blazej.W@ticket.pl|Kamionki4|Servers|5|Radoslaw Jasinski|Radoslaw.J@ticket.pl|Swarzedz3|Network|6|Olgierd Zalewski|Olgierd.Z@ticket.pl|Nowy Tomysl
